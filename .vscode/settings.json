@@ -1,0 +1,11 @@
+{
+    "java.project.sourcePaths": [
+        "Number Game",
+        "Student Management System",
+        "Word Counter"
+    ],
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Libs\\mysql-connector-j-8.2.0.jar"
+    ]
+}
